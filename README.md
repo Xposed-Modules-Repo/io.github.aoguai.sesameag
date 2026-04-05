@@ -17,4 +17,5 @@ Sesame-AG
 - Support / Issues: <https://github.com/aoguai/Sesame-AG/issues>
 
 同时文档、开源协议、使用说明、项目的许可边界以原仓库为准。
+
 当你下载、克隆、编译、安装、运行、修改、分发或以其他方式使用本项目时，即视为你已经阅读、理解并接受。
