@@ -13,8 +13,8 @@ Sesame-AG
 
 源码开发、问题跟踪与持续集成都在源仓库进行：
 
-- Source code: <https://github.com/aoguai/Sesame-AG>
-- Support / Issues: <https://github.com/aoguai/Sesame-AG/issues>
+- Source code: <https://github.com/Sesame-AG/Sesame-AG>
+- Support / Issues: <https://github.com/Sesame-AG/Sesame-AG/issues>
 
 同时文档、开源协议、使用说明、项目的许可边界以原仓库为准。
 
